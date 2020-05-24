@@ -1,0 +1,10 @@
+Nume: Cristian
+Prenume: Stratulat
+Telefon: 124234
+Orasul: Soroc
+Virsta: 16
+Nume: Slavic
+Prenume: Ignat
+Telefon: 345348
+Orasul: Inlume
+Virsta: 17
